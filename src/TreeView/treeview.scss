@@ -1,0 +1,13 @@
+li {
+  list-style: none;
+}
+.li-collapsed {
+  ul {
+    display: none;
+  }
+}
+.li-expanded {
+  ul {
+    display: block;
+  }
+}
